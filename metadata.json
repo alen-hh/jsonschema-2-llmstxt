@@ -1,5 +1,5 @@
 {
-  "name": "jsonschema-2-llmtxt",
-  "description": "A professional tool to transform OpenAPI/Swagger JSON specifications into the optimized llm.txt Markdown format, perfect for LLM context windows and developer documentation.",
+  "name": "jsonschema-2-llmstxt",
+  "description": "A professional tool to transform OpenAPI/Swagger JSON specifications into the optimized llms.txt Markdown format, perfect for LLM context windows and developer documentation.",
   "requestFramePermissions": []
 }

@@ -2,7 +2,7 @@
 import { OpenAPISpec } from "../types";
 
 /**
- * Local conversion logic for OpenAPI JSON to llm.txt format.
+ * Local conversion logic for OpenAPI JSON to llms.txt format.
  */
 export const localConvertToLlmTxt = (jsonContent: string): string => {
   let spec: OpenAPISpec;
